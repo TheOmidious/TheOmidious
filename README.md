@@ -9,8 +9,7 @@
 🌍 Vision: To leverage my architectural expertise and coding skills to create sustainable, intelligent, and aesthetically pleasing solutions that make a positive impact on the world.
 
 ## 🏆 GitHub Profile
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheOmidious&theme=algolia&margin-w=8&title=Commit)](https://github.com/ryo-ma/github-profile-trophy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheOmidious&theme=algolia&margin-w=8&title=Commit)](https://github.com/ryo-ma/github-profile-trophy) 
 
 Let's connect and build something amazing together! 🚀
 

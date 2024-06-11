@@ -10,12 +10,12 @@
 
 ## 🏆 GitHub Profile
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheOmidious&theme=algolia&margin-w=8&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 Let's connect and build something amazing together! 🚀
 
 ## 🤝 Get in Touch
 [](https://www.linkedin.com/in/omid-pournejati-1773674b/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 <a href="https://www.linkedin.com/in/omid-pournejati-1773674b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

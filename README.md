@@ -16,4 +16,5 @@ Let's connect and build something amazing together! 🚀
 ## 🤝 Get in Touch
 [](https://www.linkedin.com/in/omid-pournejati-1773674b/)
 <a href="https://www.linkedin.com/in/omid-pournejati-1773674b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)

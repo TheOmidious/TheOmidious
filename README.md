@@ -14,7 +14,7 @@
 Let's connect and build something amazing together! 🚀
 
 ## 🤝 Get in Touch
-[](https://www.linkedin.com/in/omid-pournejati-1773674b/)
+[](https://www.linkedin.com/in/omidpournejati)
 
 
 <a href="https://www.linkedin.com/in/omid-pournejati-1773674b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
